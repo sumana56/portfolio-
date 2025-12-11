@@ -8,4 +8,4 @@ Responsive • SEO Optimized • Mobile-First📱 Fully Responsive - Works perfe
 ✅ Next.js + Supabase (Hopshop/CMRTC)
 ✅ Flask backend (SAFE hackathon)
 ✅ 9.25 CGPA + HR internship experience
-✅ Clean, semantic HTML/CSS/JSReady to build your dream projects! 🚀�
+✅ Clean, semantic HTML/CSS/JSReady
